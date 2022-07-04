@@ -46,3 +46,15 @@ library(dplyr)
     ## The following objects are masked from 'package:base':
     ## 
     ##     intersect, setdiff, setequal, union
+
+``` r
+library(caret)
+```
+
+    ## Warning: package 'caret' was built under R version 4.1.1
+
+    ## Loading required package: lattice
+
+    ## Loading required package: ggplot2
+
+    ## Warning: package 'ggplot2' was built under R version 4.1.2
